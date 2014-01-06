@@ -1,12 +1,1 @@
-{
-  "name": "hexo",
-  "version": "2.4.2",
-  "private": true,
-  "dependencies": {
-    "hexo-renderer-coffeescript": "0.0.2",
-    "hexo-generator-sitemap": "~0.1.0",
-    "hexo-generator-feed": "~0.1.0",
-    "hexo-renderer-jade": "0.0.2",
-    "hexo-renderer-less": "0.0.3"
-  }
-}
+{"name":"hexo","version":"2.4.2","private":true,"dependencies":{"hexo-renderer-coffeescript":"0.0.2","hexo-generator-sitemap":"~0.1.0","hexo-generator-feed":"~0.1.0","hexo-renderer-jade":"0.0.2","hexo-renderer-less":"0.0.3","connect":"2.x"}}
