@@ -96,5 +96,5 @@ markdown:
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
-  type: heroku
-  repo: git@heroku.com:thoughtworkshop.git
+  type: github
+  repo: git@github.com:ThoughtWorkshop/thoughtworkshop.github.io.git
